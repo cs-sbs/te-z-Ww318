@@ -1,5 +1,4 @@
-package package1;
-
+package org.example;
 
 import java.util.Scanner;
 
@@ -24,4 +23,3 @@ public class OddEven {
         System.out.println(countEven);
     }
 }
-
